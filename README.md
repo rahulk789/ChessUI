@@ -1,6 +1,9 @@
-Don't forget to run the following commands 
-###`npm i chessboardjsx chess.js`
-###`npm install`
+# Don't forget to run the following commands 
+
+### `npm i chessboardjsx chess.js`
+
+### `npm install`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
